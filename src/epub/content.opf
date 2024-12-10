@@ -49,9 +49,9 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A king tries to save his citizens from a devastating plague, and in his search for a cure, he discovers he is the cause of the plague.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Many years after Oedipus famously solved the riddle of the Sphinx and ascended to the throne, a curse descends upon Thebes in the form of a terrible plague. This persistent blight ravages the land: crops withering in the fields, livestock succumbing to sickness, and families losing women and children. In this dire time, Creon, Oedipus’s brother, returns from the Oracle of Delphi. He brings news of a cure: the plague will lift once the murderer of the late King Laius is identified and banished from the city. To save his people, Oedipus embarks on a quest to uncover the killer’s identity. However, as he delves deeper into his investigation, he begins to unearth shocking revelations about his own origins and prophetic actions that brought this curse.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31</dc:source>
