@@ -71,7 +71,7 @@
 		<meta property="file-as" refines="#translator">Storr, Francis</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n83130003</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Gustave Moreau</dc:contributor>
 		<meta property="file-as" refines="#artist">Moreau, Gustave</meta>
