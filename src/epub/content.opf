@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31</dc:source>
 		<dc:source>https://archive.org/details/sophoclesstor01sophuoft</dc:source>
-		<meta property="se:word-count">13026</meta>
+		<meta property="se:word-count">12890</meta>
 		<meta property="se:reading-ease.flesch">81.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oedipus_Rex</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sophocles_oedipus-rex_francis-storr</meta>
