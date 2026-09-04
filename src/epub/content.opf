@@ -34,9 +34,9 @@
 		<meta property="dcterms:alternative" refines="#title">Oedipus the King</meta>
 		<meta property="dcterms:alternative" refines="#title">Oedipus Tyrannus</meta>
 		<dc:subject id="subject-1">Tragedies</dc:subject>
-		<dc:subject id="subject-2">Antigone (Mythological character) -- Drama</dc:subject>
-		<dc:subject id="subject-3">Oedipus (Greek mythological figure) -- Drama</dc:subject>
-		<dc:subject id="subject-4">Greek drama (Tragedy) -- Translations into English</dc:subject>
+		<dc:subject id="subject-2">Antigone (Mythological character)--Drama</dc:subject>
+		<dc:subject id="subject-3">Oedipus (Greek mythological figure)--Drama</dc:subject>
+		<dc:subject id="subject-4">Greek drama (Tragedy)--Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2001009136</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
